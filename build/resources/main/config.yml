@@ -1,0 +1,3 @@
+commands:
+  - lp user %player_name% permission set bedrockexecute.isbedrock #加上这个就不会每次进入服务器都执行了
+  - say %player_name%是基岩版玩家

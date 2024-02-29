@@ -1,0 +1,13 @@
+name: bedrockexecute
+version: '1.0'
+main: cn.bedrockexecute.Bedrockexecute
+api-version: '1.20'
+depend: [floodgate]
+softdepend: [PlaceholderAPI]
+authors: [jhqwqmc]
+description: 检测基岩版玩家并且执行命令
+website: https://github.com/jhqwqmc
+commands:
+  bedrockexecute:
+    description: 重新加载配置文件
+    usage: /<command> reload
